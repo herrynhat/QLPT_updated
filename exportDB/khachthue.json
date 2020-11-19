@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "5f97e4c4e15900004e0051f4"
+  },
+  "makhachthue": 1,
+  "cmt": "261625773",
+  "hoten": "Nguyễn Minh Nhật",
+  "gioitinh": "Nam",
+  "nghenghiep": "Sinh Viên",
+  "sdt": "0369346360",
+  "diachi": "Phạm Văn Đồng, Bình Thạnh, Hồ Chí Minh",
+  "maphong": 9
+},{
+  "_id": {
+    "$oid": "5f9918a11d680000f3000b65"
+  },
+  "makhachthue": 2,
+  "cmt": "261636891",
+  "hoten": "Nguyen Van A",
+  "gioitinh": "Nam",
+  "nghenghiep": "Sinh Vien",
+  "sdt": "3454516565465",
+  "diachi": "Go Vap, Hcm",
+  "maphong": 1
+},{
+  "_id": {
+    "$oid": "5f9d04c5492000002200293c"
+  },
+  "makhachthue": 3,
+  "cmt": "261561612",
+  "hoten": "Nguyễn Văn B",
+  "gioitinh": "Nam",
+  "nghenghiep": "Sinh Viên",
+  "sdt": "031641232156",
+  "diachi": "HCM",
+  "maphong": 2
+}]

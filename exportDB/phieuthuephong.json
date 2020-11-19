@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "5f97e4c4e15900004e0051f5"
+  },
+  "maphieuthue": 1,
+  "maphong": "9",
+  "cmt": "261625773",
+  "ngaythue": "2020-10-27",
+  "tiencoc": "500.000",
+  "ghichu": "Thuê theo tháng. "
+},{
+  "_id": {
+    "$oid": "5f9918a11d680000f3000b66"
+  },
+  "maphieuthue": 2,
+  "maphong": "1",
+  "cmt": "261636891",
+  "ngaythue": "2020-10-28",
+  "tiencoc": "500.000",
+  "ghichu": "Thue cuoi thang 10"
+},{
+  "_id": {
+    "$oid": "5f9d04c6492000002200293d"
+  },
+  "maphieuthue": 3,
+  "maphong": "2",
+  "cmt": "261561612",
+  "ngaythue": "2020-10-31",
+  "tiencoc": "500.000",
+  "ghichu": "Thêu tháng 11"
+}]

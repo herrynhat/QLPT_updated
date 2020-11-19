@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "5f9d1bca4920000022002947"
+  },
+  "maphieuthu": 1,
+  "maphong": 1,
+  "cmt": "261636891",
+  "sodien": "2",
+  "giadien": "2000",
+  "sonuoc": "2",
+  "gianuoc": "6000",
+  "giaphong": "800000",
+  "tongtien": "816000",
+  "ngayghi": "2020-10-31",
+  "ghichu": "Thu tháng 10"
+}]

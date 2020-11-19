@@ -1,0 +1,125 @@
+[{
+  "_id": {
+    "$oid": "5f80688682390000ac005c33"
+  },
+  "username": "qakhudaubuon12@gmail.com",
+  "name": "qakhudaubuon",
+  "user_id": 1,
+  "password": "123456",
+  "last_login": "2020-11-14 13:32:50",
+  "relationship": [
+    {
+      "friend_id": 2,
+      "status": "f"
+    },
+    {
+      "friend_id": 3,
+      "status": "f"
+    },
+    {
+      "friend_id": 4,
+      "status": "f"
+    },
+    {
+      "friend_id": 5,
+      "status": "s"
+    },
+    {
+      "friend_id": 0,
+      "status": "f"
+    }
+  ],
+  "phanquyen": "1",
+  "qrcode": "4ad3e50f3cae71b7fe046ac8f0aa2a0fe10adc3949ba59abbe56e057f20f883e",
+  "qrcode_expire": 1605339147
+},{
+  "_id": {
+    "$oid": "5f81736d165bbc81be735229"
+  },
+  "username": "hainguyenvan6799@gmail.com",
+  "name": "HaiNguyenVan",
+  "user_id": 2,
+  "password": "123456",
+  "last_login": "2020-11-14 11:11:19",
+  "relationship": [
+    {
+      "friend_id": 1,
+      "status": "f"
+    }
+  ],
+  "phanquyen": "1",
+  "qrcode": "aa9dc4736b0b013f23eb02c0ecc56929e10adc3949ba59abbe56e057f20f883e",
+  "qrcode_expire": 1605339147
+},{
+  "_id": {
+    "$oid": "5f8eeda7510d00003e007735"
+  },
+  "username": "xyz@gmail.com",
+  "name": "xyz",
+  "user_id": 4,
+  "password": "123456",
+  "last_login": "2020-11-14 11:12:13",
+  "relationship": [
+    {
+      "friend_id": 1,
+      "status": "f"
+    }
+  ],
+  "phanquyen": "1",
+  "qrcode": "a130870ccaa6bb8f250dcbec777ed7dfe10adc3949ba59abbe56e057f20f883e",
+  "qrcode_expire": 1605339147
+},{
+  "_id": {
+    "$oid": "5f95ad37c3bf4622f8910078"
+  },
+  "username": "ptud2020@gmail.com",
+  "name": "abc",
+  "password": "123456",
+  "user_id": 3,
+  "last_login": "2020-11-14 11:13:08",
+  "relationship": [
+    {
+      "friend_id": 1,
+      "status": "f"
+    }
+  ],
+  "phanquyen": "1",
+  "qrcode": "02f6d52cede0a49aac4d9e956a5f8cd1e10adc3949ba59abbe56e057f20f883e",
+  "qrcode_expire": 1605339147
+},{
+  "_id": {
+    "$oid": "5f9ce87a212d0000e500698b"
+  },
+  "username": "herry@gmail.com",
+  "name": "user_5",
+  "user_id": 5,
+  "password": "123456",
+  "last_login": "2020-11-14 11:13:50",
+  "relationship": [
+    {
+      "friend_id": 1,
+      "status": "r"
+    }
+  ],
+  "phanquyen": "1",
+  "qrcode": "39d275a723ec427b0493ad35f54b154ee10adc3949ba59abbe56e057f20f883e",
+  "qrcode_expire": 1605339147
+},{
+  "_id": {
+    "$oid": "5f9ce8f9212d0000e500698d"
+  },
+  "username": "admin",
+  "name": "Admin",
+  "user_id": 0,
+  "password": "admin123",
+  "last_login": "2020-11-14 11:14:39",
+  "relationship": [
+    {
+      "friend_id": 1,
+      "status": "f"
+    }
+  ],
+  "phanquyen": "0",
+  "qrcode": "21232f297a57a5a743894a0e4a801fc30192023a7bbd73250516f069df18b500",
+  "qrcode_expire": 1605339147
+}]

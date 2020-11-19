@@ -1,0 +1,20 @@
+[{
+  "_id": {
+    "$oid": "5f8afa7eb07f00007f007b05"
+  },
+  "notifiId": 1,
+  "user_post_notification": 1,
+  "content": "a",
+  "user_read": [
+    3,
+    1
+  ]
+},{
+  "_id": {
+    "$oid": "5f8afa90b07f00007f007b06"
+  },
+  "notifiId": 1,
+  "user_post_notification": 1,
+  "content": "a",
+  "user_read": []
+}]
